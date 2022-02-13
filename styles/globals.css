@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+code {
+  @apply p-1 bg-gray-200 rounded-md text-sm;
+}
+
+a {
+  @apply text-blue-500 underline hover:no-underline;
+}
