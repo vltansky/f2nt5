@@ -96,6 +96,7 @@ export default function Home() {
             <li>Show loader before http request and hide it after</li>
           </ul>
         </li>
+        <li>Add typing - bonus</li>
       </ol>
       <div className="font-bold mt-2">References:</div>
       <ul className="list-disc pl-5">
